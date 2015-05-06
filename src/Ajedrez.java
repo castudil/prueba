@@ -3,7 +3,10 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-
+/**
+ *Clase para proyecto de la primera tarea
+ *
+ **/
 public class Ajedrez {
     
     //Función que lee la pieza
